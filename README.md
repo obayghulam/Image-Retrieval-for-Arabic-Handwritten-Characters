@@ -63,9 +63,5 @@ This project implements an **image similarity search system** designed to retrie
 
 This project is open-source and available for educational and research purposes.
 
----
 
-### 📞 Contact
-
-For questions or contributions, feel free to open an issue.
 
